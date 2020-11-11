@@ -1,5 +1,4 @@
-# sql-challenge
-SQL Homework - Employee Database: A Mystery in Two Parts
+##SQL Homework - Employee Database: A Mystery in Two Parts
 
 Design tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data.
 
